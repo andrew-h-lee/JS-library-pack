@@ -21,7 +21,7 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "Issues Link"
+    "url": "https://github.com/andrew-h-lee/JS-library-pack/issue"
   },
   "dependencies": {
     "unique-random-array": "1.0.0"
